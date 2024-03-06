@@ -1,38 +1,38 @@
 @font-face {
     font-family: AmericanGaramound;
-    src: url(/Stylesheet/Fonts/AmericanGaramound/American\ Garamond\ Bold\ Italic.otf);
+    src: url(./Fonts/AmericanGaramound/American\ Garamond\ Bold\ Italic.otf);
   }
   @font-face {
     font-family: CatholicSchoolGirlBB;
-    src: url(/Stylesheet/Fonts/catholic_school_gir/CATHSGBR.TTF);
+    src: url(./Fonts/catholic_school_gir/CATHSGBR.TTF);
   }
   @font-face {
     font-family: BrettleySignature;
-    src: url(/Stylesheet/Fonts/Brettley-Signature-DEMO-BF63d7cff930ddd.ttf);
+    src: url(./Fonts/Brettley-Signature-DEMO-BF63d7cff930ddd.ttf);
   }
   @font-face {
     font-family: AdobeCalsonPro-Regular;
-    src: url(/Stylesheet/Fonts/ACalsonPro/ACaslonPro-Regular.otf);
+    src: url(./Fonts/ACalsonPro/ACaslonPro-Regular.otf);
   }
   @font-face {
     font-family: AdobeCalsonPro-SemiBold;
-    src: url(/Stylesheet/Fonts/ACalsonPro/ACaslonPro-Semibold.otf);
+    src: url(./Fonts/ACalsonPro/ACaslonPro-Semibold.otf);
   }
   @font-face {
     font-family: AdobeCalsonPro-Bold;
-    src: url(/Stylesheet/Fonts/ACalsonPro/ACaslonPro-Bold.otf);
+    src: url(./Fonts/ACalsonPro/ACaslonPro-Bold.otf);
   }
   @font-face {
     font-family: Dutch766;
-    src: url(/Stylesheet/Fonts/dutch766-bt-bold-font/dutch-766-bold-bt.ttf);
+    src: url(./Fonts/dutch766-bt-bold-font/dutch-766-bold-bt.ttf);
   }
   @font-face {
     font-family: Kontora-Extravold;
-    src: url(Fonts/kontora-extrabold.otf);
+    src: url(./Fonts/kontora-extrabold.otf);
   }
   @font-face {
     font-family: KingCaslon;
-    src: url(/Stylesheet/Fonts/KingsCaslonDisplay_Trial_It.ttf);
+    src: url(./Fonts/KingsCaslonDisplay_Trial_It.ttf);
   }
 
 * {
